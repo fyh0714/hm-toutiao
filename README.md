@@ -1,4 +1,4 @@
-# hm-toutiao
+# hm74-toutiao
 
 ## Project setup
 ```
